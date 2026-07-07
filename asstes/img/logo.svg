@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="48" fill="#1b6e3c"/>
-  <circle cx="50" cy="50" r="42" fill="#e8f5e9"/>
-  <path d="M50 18 C33 32 26 50 30 66 c3 11 11 18 20 19 9-1 17-8 20-19 4-16-3-34-20-48z" fill="#1b6e3c"/>
-  <path d="M50 34 v42 M50 48 l-9-7 M50 58 l9-7" stroke="#e8f5e9" stroke-width="3" fill="none" stroke-linecap="round"/>
-  <text x="50" y="95" font-size="9" text-anchor="middle" fill="#1b6e3c" font-family="Arial" font-weight="bold">DLH</text>
-</svg>
